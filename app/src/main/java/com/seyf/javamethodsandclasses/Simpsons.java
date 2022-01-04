@@ -36,5 +36,5 @@ public class Simpsons {
         this.job = job;
     }
 
-    // Getter ve Setter kullandığımız için private veya protected olmasına rağmen başka 
+    // Getter ve Setter kullandığımız için private veya protected olmasına rağmen başka
 }
